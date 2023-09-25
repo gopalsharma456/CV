@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Gopal Sharma
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development with WEB 3.0 from ALMABETTER platform.
 - 📫 How to reach me linkedin.com/gopalsharma456 or twitter.com/gopalsharma456
