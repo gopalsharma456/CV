@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gopal Sharma
 - 👀 I’m interested in Web Development
 - 📫 How to reach me linkedin.com/gopalsharma456 or twitter.com/gopalsharma456
-- Live link : https://gopalsharma456.github.io/CV/ 
+- Live link : [https://gopalsharma456.github.io/CV/ ](https://gopalsharma456.github.io/portfoilo_old/)
